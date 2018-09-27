@@ -1,0 +1,14 @@
+body{
+    background-color: #4a318c;
+}
+
+h1{
+    color: white;
+}
+
+.location, .temperature, .weather{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+
